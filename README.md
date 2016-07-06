@@ -1,6 +1,8 @@
 # Angular 2 + WebPack con TypeScript
 
 [![Dependency Status](https://david-dm.org/joseverdugo/simple-angula2-webpack.svg)](https://david-dm.org/joseverdugo/simple-angula2-webpack)
+[![devDependency Status](https://david-dm.org/joseverdugo/simple-angula2-webpack/dev-status.svg)](https://david-dm.org/joseverdugo/simple-angula2-webpack#info=devDependencies)
+
 
 Basado en documentacion oficial de angular 2 con webpack, pero sin Karma ni Jasmine.
 https://angular.io/docs/ts/latest/guide/webpack.html 
@@ -28,7 +30,7 @@ npm start
 npm run build
 
 ```
-En browser ir a [http://0.0.0.0:3000](http://0.0.0.0:8080) o [http://localhost:3000](http://localhost:8080)
+En browser ir a [http://0.0.0.0:8080](http://0.0.0.0:8080) o [http://localhost:8080](http://localhost:8080)
 
 
 ###Descripcion de Archivos:
