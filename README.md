@@ -1,5 +1,7 @@
 # Angular 2 + WebPack con TypeScript
 
+[![Dependency Status](https://david-dm.org/joseverdugo/simple-angula2-webpack.svg)](https://david-dm.org/joseverdugo/simple-angula2-webpack)
+
 Basado en documentacion oficial de angular 2 con webpack, pero sin Karma ni Jasmine.
 https://angular.io/docs/ts/latest/guide/webpack.html 
 
